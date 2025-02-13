@@ -1,4 +1,4 @@
-module github.com/unera/tap
+module github.com/unera/go-tap
 
 go 1.22.1
 
